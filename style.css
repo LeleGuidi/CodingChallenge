@@ -1,0 +1,58 @@
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#box {
+    margin: auto;
+    width: 55%;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 80px;
+}
+
+header {
+    text-align: center;
+    color: lime;
+}
+
+img {
+    width: 200px;
+}
+
+nav{
+    background-color:lime;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    color: white;
+}
+
+.monopattini {
+    display: inline-block;
+    margin-bottom: auto;
+}
+
+#caricamedia {
+    background-color: orange;
+    width: 350px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#caricapiena {
+    background-color:springgreen;
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#caricabassa {
+    background-color:red;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
